@@ -1,0 +1,66 @@
+html, body {
+	font-family: 'Verdana', sans-serif !important;
+	font-size: 14px;
+	font-style: normal;
+
+	-webkit-font-smoothing: antialiased !important;
+}
+
+/* Minimale Breite der Buttons. Zentrierte Ausrichtung der Schrift */
+.ipsCategory > .container .content .visual > .enum > div, 
+.ipsCategory > .container .content .visual > .selector > div, 
+.ipsCategory > .container .extended > .textBox > div {
+	min-width: 50px;
+	text-align: center; 
+}
+
+.ipsWebFront {
+	background-color: #555555;
+
+	background-image: url('/user/skins/dsSkin/background/dark_leather.png') !important;
+	background-repeat: repeat !important;
+}
+
+.ipsCategory > .container {
+	background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.4);
+}
+
+.ipsCategory > .container .childContainers {
+	background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.3);
+	border-color: rgba(255, 255, 255, 0.15);
+}
+
+.ipsTabPane > .navigation {
+background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #4E4E4E),
+	color-stop(1, #242424)
+);
+background-image: -o-linear-gradient(bottom, #4E4E4E 0%, #242424 100%);
+background-image: -moz-linear-gradient(bottom, #4E4E4E 0%, #242424 100%);
+background-image: -webkit-linear-gradient(bottom, #4E4E4E 0%, #242424 100%);
+background-image: -ms-linear-gradient(bottom, #4E4E4E 0%, #242424 100%);
+background-image: linear-gradient(to bottom, #4E4E4E 0%, #242424 100%)
+}
+
+.ipsTabPane > .navigation ,
+.ipsContentChanger > .navigation {
+	font-family: 'Verdana', sans-serif !important;
+	background-color: #111111;
+}
+
+.ipsTabPane > .navigation > .scroll > .buttons > div {
+	font-size: 16px !important;
+}
+
+div.icon {
+	font-size: 22px;
+	padding-top: 0px !important;
+	margin-top: -1px;
+}
+
+.plex_cover {
+	max-height: 200px;
+}
