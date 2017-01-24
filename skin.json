@@ -2,8 +2,8 @@
     "author": "Andreas Birk",
     "version": "0.0",
     "compatible": 1,
-    "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "https:\/\/github.com\/freakyfreaky\/IP-Symcon-Skin.git",
+    "url": "",
+    "git": "http:\/\/www.github.com\/freakyfreak\/IP-Symcon-Skin\/",
     "icons": [
         "Abwesend",
         "Anwesend"

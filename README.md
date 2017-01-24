@@ -1,5 +1,4 @@
-CustomIcons für IP-Symcon WebFront
+SKinanpassungen für das IP-Symcon WebFront
 
-* Größe: 1kB
-* Template für einen minimalistischen Skin 
-* Alternativ: Zum Import der eigenen Icons aus IP-Symcon 2.7 oder älter
+* Ergänzende Icon die im Standard fehlen
+* Webfront.css Anpassungen
