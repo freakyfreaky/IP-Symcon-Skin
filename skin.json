@@ -3,7 +3,7 @@
     "version": "1.0",
     "compatible": 1,
     "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "https:\/\/github.com\/-unnamed-\/CustomIcons.git",
+    "git": "https:\/\/github.com\/freakyfreaky\/IP-Symcon-Skin.git",
     "icons": [
         "Abwesend",
         "Anwesend"
