@@ -64,3 +64,243 @@ div.icon {
 .plex_cover {
 	max-height: 200px;
 }
+/* Wettervorhersage */
+.weather_forecast {
+	width: 1250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.weather_forecast .day {
+	width: 250px;
+	float: left;
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.weather_forecast .day:after {
+	float: none;
+	clear: both;
+}
+
+.weather_forecast .day .weekday {
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.weather_forecast .day .description {
+	text-align: center;
+	margin-top: 10px;
+}
+
+.weather_forecast .day .text {
+	float: left;
+	width: 140px;
+	margin-bottom: 5px;
+}
+
+.weather_forecast .day .value {
+	margin-bottom: 5px;
+	color: #dedede;
+}
+
+.weather_forecast .day .icon01d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/user/wettericons/01d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.weather_forecast .day .icon02d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/02d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon03d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/03d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon04d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/04d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon09d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/09d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon10d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/10d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon11d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/11d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon13d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/13d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon50d {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/50d.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.weather_forecast .day .icon01n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(/user/wettericons/01n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon02n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/02n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon03n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/03n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon04n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/04n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon09n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/09n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon10n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/10n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon11n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/11n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon13n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/13n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.weather_forecast .day .icon50n {
+	width: 50px;
+	height: 50px;
+
+	margin-left: auto;
+	margin-right: auto;
+
+	background-image: url(/user/wettericons/50n.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
